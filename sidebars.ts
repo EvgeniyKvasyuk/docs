@@ -523,6 +523,7 @@ const sidebars: SidebarsConfig = {
                   items: [
                     'admin/deployment/gcp/infrastructure-deployment/infrastructure-scripted-deployment',
                     'admin/deployment/gcp/infrastructure-deployment/infrastructure-manual-deployment',
+                    'admin/deployment/gcp/infrastructure-deployment/infrastructure-bastion-host-access',
                   ],
                 },
                 {
