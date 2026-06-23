@@ -69,6 +69,8 @@ No third-party component updates in this release.
    3. Delete the old deployment from the `codemie` namespace.
       :::
 
+3. Network Policy enforcement enabled for the AWS VPC CNI addon.
+
 </details>
 
 <details>
